@@ -9,5 +9,7 @@ In order to show how to use @ngrx/store in Angular. To demonstrate the power of 
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
+Clone the repository. <br>
+Move into the directory. <br>
+Run the ng serve command. <br>
+Navigate to localhost:4200 in your browser. <br>
